@@ -9,5 +9,4 @@ git checkout -b mabranche
 git checkout master
 git log --graph
 git merge mabranche
-...
 -------
